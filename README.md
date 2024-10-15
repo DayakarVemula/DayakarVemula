@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VenkannaBabuChella18
+- 👋 Hi, I’m @DayakarVemula.
 - 👀 I’m interested in Frontend Development.
-- 🌱 I’m currently learning Angular Js
+- 🌱 I’m currently Pursuing Masters in Rivier University, USA.
 - 💞️ I’m looking to collaborate with New Comapanies
